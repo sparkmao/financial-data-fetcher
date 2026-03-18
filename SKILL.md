@@ -1,8 +1,13 @@
+---
+name: financial-data-fetcher
+description: 一个基于通达信 TQ 策略接口的金融数据获取工具，提供多种API脚本用于获取股票行情、财务数据、板块信息等。
+---
+
 # TongdaXin Financial Data Fetcher
 
 ## Description
 
-一个基于 TongdaXin TQ 策略接口的金融数据获取工具，提供多种API脚本用于获取股票行情、财务数据、板块信息等。
+一个基于通达信 TQ 策略接口的金融数据获取工具，提供多种API脚本用于获取股票行情、财务数据、板块信息等。
 
 ## Triggers
 
